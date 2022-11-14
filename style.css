@@ -1,0 +1,101 @@
+body{
+   
+    margin: auto;
+}
+
+.parent {
+    background-color: gray;
+}
+
+#parentID {
+    background-color: aqua;
+}
+
+.child {
+    color: thistle;
+}
+
+#childID {
+    color: red; 
+}
+
+.child2 {
+    font-style: normal;
+}
+
+#childID2 {
+font-style: italic;
+}
+
+.child3 {
+    font-size: medium;
+}
+
+#childID3 {
+    font-size: 22px;
+}
+
+.child4 {
+    font-weight: 100px;
+}
+
+#childID4 {
+    font-weight: bold;
+}
+
+.child5 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#childID5 {
+    font-family: inherit
+}
+
+.parent-OL {
+    background-color: brown;
+}
+
+#parentOL-ID {
+    background-color: inherit;
+}
+
+.child-OL1 {
+    text-transform: lowercase;
+}
+
+#child-ID1 {
+    text-transform: uppercase;
+}
+
+.child-OL2 {
+    text-decoration: overline;
+}
+
+#child-ID2 {
+    text-decoration: underline;
+}
+
+.child-OL3 {
+    font-size: 35px;
+}
+
+#child-ID3 {
+    font-size: inherit;
+}
+
+.child-OL4 {
+    color: turquoise;
+}
+
+#child-ID4 {
+    color: red;
+}
+
+.child-OL5 {
+    font-style: oblique;
+
+}
+
+#child-ID5 {
+    font-style: unset;
+}
